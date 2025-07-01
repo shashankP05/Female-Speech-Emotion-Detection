@@ -31,7 +31,7 @@ This project provides a complete pipeline for gender and emotion detection from 
    ```
 2. **Download model and encoder files:**
    - Download the `.keras` and `.pkl` files from the provided Google Drive link:
-     - [Download Models and Encoders](YOUR_GOOGLE_DRIVE_LINK_HERE)
+     - [Download Models and Encoders](https://drive.google.com/drive/folders/1qwzWqhJWmN1j9wsFLulgSEKZApjRSEIo?usp=drive_link)
    - Place them in the project folder.
 3. **Run the GUI:**
    ```
